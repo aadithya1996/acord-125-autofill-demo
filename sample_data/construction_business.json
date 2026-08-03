@@ -1,0 +1,80 @@
+{
+  "producer": {
+    "full_name": "BuildSecure Agency",
+    "address_line1": "500 W Madison St",
+    "address_line2": "Suite 1600",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60661",
+    "contact_name": "James O'Brien",
+    "phone": "(312) 555-0176",
+    "email": "j.obrien@buildsecure.com"
+  },
+  "policy": {
+    "status": "Renew",
+    "effective_date": "06/01/2026",
+    "effective_time": "12:01 AM",
+    "expiration_date": "06/01/2027"
+  },
+  "lines_of_business": {
+    "general_liability": {
+      "selected": true,
+      "premium": "45,000"
+    },
+    "commercial_property": {
+      "selected": false,
+      "premium": ""
+    },
+    "business_owners": {
+      "selected": false,
+      "premium": ""
+    },
+    "cyber_and_privacy": {
+      "selected": false,
+      "premium": ""
+    }
+  },
+  "named_insured": {
+    "full_name": "Lakeside Construction Partners, LLC",
+    "address_line1": "1400 S Western Ave",
+    "address_line2": "",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60608",
+    "fein": "36-1122334",
+    "sic_code": "1541",
+    "naics_code": "236220",
+    "phone": "(312) 555-0456",
+    "legal_entity": "LLC"
+  },
+  "contact": {
+    "description": "Safety Director",
+    "full_name": "Robert Kim",
+    "phone": "(312) 555-0457",
+    "email": "r.kim@lakesidebuild.com"
+  },
+  "location": {
+    "address_line1": "1400 S Western Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60608",
+    "full_time_employees": "120",
+    "annual_revenue": "32,000,000",
+    "operations_description": "Commercial building construction & general contracting"
+  },
+  "business_type": {
+    "type": "Contractor",
+    "other_description": "",
+    "business_start_date": "2009-04-20"
+  },
+  "prior_coverage": {
+    "policy_year": "2025",
+    "gl_insurer": "Zurich North America",
+    "gl_policy_number": "ZN-GL-77210",
+    "gl_effective_date": "06/01/2025",
+    "gl_expiration_date": "06/01/2026"
+  },
+  "loss_history": {
+    "no_prior_losses": true
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "producer": {
+    "full_name": "CyberShield Insurance Agency",
+    "address_line1": "101 Market Street",
+    "address_line2": "Suite 400",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94105",
+    "contact_name": "Alice Nguyen",
+    "phone": "(415) 555-0192",
+    "email": "alice@cybershield.com"
+  },
+  "policy": {
+    "status": "Bound",
+    "effective_date": "01/15/2026",
+    "effective_time": "12:01 AM",
+    "expiration_date": "01/15/2027"
+  },
+  "lines_of_business": {
+    "general_liability": {
+      "selected": true,
+      "premium": "8,500"
+    },
+    "commercial_property": {
+      "selected": true,
+      "premium": "4,200"
+    },
+    "business_owners": {
+      "selected": false,
+      "premium": ""
+    },
+    "cyber_and_privacy": {
+      "selected": true,
+      "premium": "12,000"
+    }
+  },
+  "named_insured": {
+    "full_name": "Nexus Data Systems, Inc.",
+    "address_line1": "450 Mission Bay Blvd",
+    "address_line2": "Floor 8",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94158",
+    "fein": "94-1234567",
+    "sic_code": "7372",
+    "naics_code": "541512",
+    "phone": "(415) 555-0300",
+    "legal_entity": "Corporation"
+  },
+  "contact": {
+    "description": "Risk Manager",
+    "full_name": "David Park",
+    "phone": "(415) 555-0301",
+    "email": "d.park@nexusdata.io"
+  },
+  "location": {
+    "address_line1": "450 Mission Bay Blvd",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94158",
+    "full_time_employees": "85",
+    "annual_revenue": "18,500,000",
+    "operations_description": "Cloud infrastructure & SaaS platform development"
+  },
+  "business_type": {
+    "type": "Office",
+    "other_description": "",
+    "business_start_date": "2018-06-01"
+  },
+  "prior_coverage": {
+    "policy_year": "2025",
+    "gl_insurer": "Hartford Insurance",
+    "gl_policy_number": "GL-2025-88421",
+    "gl_effective_date": "01/15/2025",
+    "gl_expiration_date": "01/15/2026"
+  },
+  "loss_history": {
+    "no_prior_losses": true
+  }
+}

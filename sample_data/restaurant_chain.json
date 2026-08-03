@@ -1,0 +1,80 @@
+{
+  "producer": {
+    "full_name": "Metro Commercial Insurance",
+    "address_line1": "225 Peachtree St NE",
+    "address_line2": "Suite 1200",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30303",
+    "contact_name": "Carlos Rivera",
+    "phone": "(404) 555-0147",
+    "email": "c.rivera@metrocomm.com"
+  },
+  "policy": {
+    "status": "Quote",
+    "effective_date": "03/01/2026",
+    "effective_time": "12:01 AM",
+    "expiration_date": "03/01/2027"
+  },
+  "lines_of_business": {
+    "general_liability": {
+      "selected": true,
+      "premium": "22,000"
+    },
+    "commercial_property": {
+      "selected": true,
+      "premium": "35,500"
+    },
+    "business_owners": {
+      "selected": true,
+      "premium": "8,750"
+    },
+    "cyber_and_privacy": {
+      "selected": false,
+      "premium": ""
+    }
+  },
+  "named_insured": {
+    "full_name": "Savannah Bistro Group, LLC",
+    "address_line1": "842 West Peachtree St NW",
+    "address_line2": "",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30308",
+    "fein": "58-9876543",
+    "sic_code": "5812",
+    "naics_code": "722511",
+    "phone": "(404) 555-0299",
+    "legal_entity": "LLC"
+  },
+  "contact": {
+    "description": "General Manager",
+    "full_name": "Maria Santos",
+    "phone": "(404) 555-0288",
+    "email": "msantos@savbistro.com"
+  },
+  "location": {
+    "address_line1": "842 West Peachtree St NW",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30308",
+    "full_time_employees": "42",
+    "annual_revenue": "4,200,000",
+    "operations_description": "Full-service restaurant & catering"
+  },
+  "business_type": {
+    "type": "Restaurant",
+    "other_description": "",
+    "business_start_date": "2015-09-12"
+  },
+  "prior_coverage": {
+    "policy_year": "2025",
+    "gl_insurer": "Liberty Mutual",
+    "gl_policy_number": "LM-GL-99543",
+    "gl_effective_date": "03/01/2025",
+    "gl_expiration_date": "03/01/2026"
+  },
+  "loss_history": {
+    "no_prior_losses": false
+  }
+}
