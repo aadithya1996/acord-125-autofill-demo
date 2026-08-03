@@ -15,3 +15,14 @@ test_*.pdf
 
 # OS
 .DS_Store
+
+# Nested repo
+neighborhood-dental/
+
+# Database
+growth_os.db
+*.db
+
+# Growth OS runtime
+__pycache__/
+*.egg-info/
