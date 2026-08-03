@@ -26,3 +26,7 @@ growth_os.db
 # Growth OS runtime
 __pycache__/
 *.egg-info/
+
+# Logs / PIDs
+*.log
+*.pid
